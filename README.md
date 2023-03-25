@@ -14,7 +14,7 @@ The website is designed to be simple and easy to use. It is designed to be used 
 
 The website has a home page, a page for the club's history, a page for the club's facilities, a page for the club's membership, a page for the club's contact details and a page for the club's location.
 
-The website has a navigation bar at the top of the page. The navigation bar is responsive and changes to a hamburger menu on smaller screens.
+The websit ze **has a navigation** bar at the top of the page. The navigation bar is responsive and changes to a hamburger menu on smaller screens.
 
 The website has a footer at the bottom of the page. The footer contains links to the club's social media pages.
 
